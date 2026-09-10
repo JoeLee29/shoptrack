@@ -52,9 +52,6 @@ ShopTrack provides a role-based menu system featuring five distinct user modules
 
 **First run:** The `.txt` data files (`inventory.txt`, `sales.txt`, `orders.txt`, `payments.txt`, `supplier.txt`, `daily_report.txt`, `monthly_report.txt`) are created automatically if they don't already exist — no manual setup is needed before launching.
 
-## Screenshots / Demo
-*(Add screenshots or a short GIF of the CLI in action here, e.g. the Main Menu and a sample transaction flow.)*
-
 ## Known Issues & Limitations
 - Single-user only — the system does not support concurrent access to the data files by multiple users at the same time.
 
