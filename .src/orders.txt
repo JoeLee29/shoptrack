@@ -1,0 +1,44 @@
+
+=======================ORDER DETAILS=======================
+Order ID: O001
+Order Date: 01/01/0001
+Supplier ID: Z011
+------------------------------------------------------------
+ItemCode      ItemName       ItemCost(RM)  ReqQty  Total(RM)
+  A001         Waffle            2.00           30     60.00
+  A002       Mi Sedaap           2.80           20     56.00
+  A003        100Plus            1.00           15     15.00
+------------------------------------------------------------
+Total Items Quantity: 65
+Total Payment Amount (RM): 131.00
+Order Status: PENDING (01/01/0001)
+Order Status: DELIVERED (01/01/0001)
+Order Status: RECEIVED (01/01/0001)
+Order Status: RETURNED (02/01/0001)
+Remarks: Item damage
+
+=======================ORDER DETAILS=======================
+Order ID: O002
+Order Date: 11/01/2026
+Supplier ID: Z001
+------------------------------------------------------------
+ItemCode      ItemName       ItemCost(RM)  ReqQty  Total(RM)
+  A002       Mi Sedaap           4.00           14     56.00
+  A004         Mouse            15.00           10    150.00
+------------------------------------------------------------
+Total Items Quantity: 24
+Total Payment Amount (RM): 206.00
+Order Status: PENDING (11/01/2026)
+
+=======================ORDER DETAILS=======================
+Order ID: O003
+Order Date: 12/01/2026
+Supplier ID: Z010
+------------------------------------------------------------
+ItemCode      ItemName       ItemCost(RM)  ReqQty  Total(RM)
+  A002       Mi Sedaap           4.00           15     60.00
+------------------------------------------------------------
+Total Items Quantity: 15
+Total Payment Amount (RM): 60.00
+Order Status: PENDING (12/01/2026)
+Order Status: DELIVERED (12/01/2026)

@@ -1,0 +1,48 @@
+
+===============MONTHLY REPORT===============
+Report Month: January 0001
+Date Generated: 02/01/0001
+--------------------------------------------
+Gross Sales                   : RM 99.20 (35 units)
+(-) Sales Returns             : RM 60.00 (24 units)
+NET SALES                     : RM 39.20 (0% vs December 0)
+
+(-) Gross Order Payments      : RM 131.00 (1 payments: 65 units)
+Order Payments Refunded       : RM 131.00 (1 payments: 65 units)
+(-) NET PROCUREMENT           : RM 0.00 (0% vs December 0)
+
+NET PROFIT (January 0001)     : RM 39.20
+NET PROFIT (December 0)       : RM 0.00
+Profits Variance              : RM 0.00 (0%)
+
+===============MONTHLY REPORT===============
+Report Month: February 0001
+Date Generated: 01/02/0001
+--------------------------------------------
+Gross Sales                   : RM 15.00 (6 units)
+(-) Sales Returns             : RM 0.00 (0 units)
+NET SALES                     : RM 15.00 (-61% vs January 0001)
+
+(-) Gross Order Payments      : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded       : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT           : RM 0.00 (0% vs January 0001)
+
+NET PROFIT (February 0001)    : RM 15.00
+NET PROFIT (January 0001)     : RM 39.20
+Profits Variance              : RM -24.20 (-61%)
+
+===============MONTHLY REPORT===============
+Report Month: January 2026
+Date Generated: 12/01/2026
+--------------------------------------------
+Gross Sales                   : RM 18.00 (4 units)
+(-) Sales Returns             : RM 18.00 (4 units)
+NET SALES                     : RM 0.00 (0% vs December 2025)
+
+(-) Gross Order Payments      : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded       : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT           : RM 0.00 (0% vs December 2025)
+
+NET PROFIT (January 2026)     : RM 0.00
+NET PROFIT (December 2025)    : RM 0.00
+Profits Variance              : RM 0.00 (0%)

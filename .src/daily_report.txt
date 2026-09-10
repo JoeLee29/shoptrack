@@ -1,0 +1,202 @@
+
+===============DAILY REPORT===============
+Report Date: 01/01/0001
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 3 (34 units)
+Customer Returns            : 1 (24 units)
+Variance (vs Yesterday)     : 0 (0 units)
+
+Total Orders Received       : 1 (65 units)
+Total Orders Returned       : 0 (0 units)
+
+Total Stock                 : 153 (3 items)
+Total Stock Added           : 89
+Total Stock Deducted        : 34
+Stock Level Histogram:
+A001 | ######               | 30%
+A002 | ##                   | 10%
+A003 | ###########          | 59%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 95.20
+(-) Sales Returns           : RM 60.00
+NET SALES                   : RM 35.20 (0%)
+
+(-) Gross Order Payments    : RM 131.00 (1 payments: 65 units)
+Order Payments Refunded     : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT         : RM 131.00
+
+DAILY NET PROFITS           : RM -95.80
+Unpaid Supplier Balance     : RM 0.00 (0 payments: 0 units)
+
+===============DAILY REPORT===============
+Report Date: 02/01/0001
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 1 (1 units)
+Customer Returns            : 0 (0 units)
+Variance (vs Yesterday)     : -2 (-33 units)
+
+Total Orders Received       : 0 (0 units)
+Total Orders Returned       : 1 (65 units)
+
+Total Stock                 : 153 (3 items)
+Total Stock Added           : 0
+Total Stock Deducted        : 66
+Stock Level Histogram:
+A001 | ######               | 30%
+A002 | ##                   | 10%
+A003 | ###########          | 59%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 4.00
+(-) Sales Returns           : RM 0.00
+NET SALES                   : RM 4.00 (-88%)
+
+(-) Gross Order Payments    : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded     : RM 131.00 (1 payments: 65 units)
+(-) NET PROCUREMENT         : RM -131.00
+
+DAILY NET PROFITS           : RM 135.00
+Unpaid Supplier Balance     : RM 0.00 (0 payments: 0 units)
+
+===============DAILY REPORT===============
+Report Date: 01/02/0001
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 1 (6 units)
+Customer Returns            : 0 (0 units)
+Variance (vs Yesterday)     : 0 (0 units)
+
+Total Orders Received       : 0 (0 units)
+Total Orders Returned       : 0 (0 units)
+
+Total Stock                 : 153 (3 items)
+Total Stock Added           : 0
+Total Stock Deducted        : 6
+Stock Level Histogram:
+A001 | ######               | 30%
+A002 | ##                   | 10%
+A003 | ###########          | 59%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 15.00
+(-) Sales Returns           : RM 0.00
+NET SALES                   : RM 15.00 (0%)
+
+(-) Gross Order Payments    : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded     : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT         : RM 0.00
+
+DAILY NET PROFITS           : RM 15.00
+Unpaid Supplier Balance     : RM 0.00 (0 payments: 0 units)
+
+===============DAILY REPORT===============
+Report Date: 11/01/2026
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 1 (4 units)
+Customer Returns            : 1 (4 units)
+Variance (vs Yesterday)     : 0 (0 units)
+
+Total Orders Received       : 0 (0 units)
+Total Orders Returned       : 0 (0 units)
+
+Total Stock                 : 153 (4 items)
+Total Stock Added           : 4
+Total Stock Deducted        : 4
+Stock Level Histogram:
+A001 | ######               | 30%
+A002 | ##                   | 10%
+A003 | ###########          | 59%
+A004 |                      | 0%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 18.00
+(-) Sales Returns           : RM 18.00
+NET SALES                   : RM 0.00 (0%)
+
+(-) Gross Order Payments    : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded     : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT         : RM 0.00
+
+DAILY NET PROFITS           : RM 0.00
+Unpaid Supplier Balance     : RM 206.00 (1 payments: 24 units)
+
+===============DAILY REPORT===============
+Report Date: 01/01/2026
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 0 (0 units)
+Customer Returns            : 0 (0 units)
+Variance (vs Yesterday)     : 0 (0 units)
+
+Total Orders Received       : 0 (0 units)
+Total Orders Returned       : 0 (0 units)
+
+Total Stock                 : 253 (5 items)
+Total Stock Added           : 0
+Total Stock Deducted        : 0
+Stock Level Histogram:
+A001 | ###                  | 18%
+A002 | #                    | 6%
+A003 | #######              | 35%
+A004 |                      | 0%
+A010 | #######              | 39%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 0.00
+(-) Sales Returns           : RM 0.00
+NET SALES                   : RM 0.00 (0%)
+
+(-) Gross Order Payments    : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded     : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT         : RM 0.00
+
+DAILY NET PROFITS           : RM 0.00
+Unpaid Supplier Balance     : RM 206.00 (1 payments: 24 units)
+
+===============DAILY REPORT===============
+Report Date: 12/01/2026
+------------------------------------------
+      SECTION A: OPERATIONAL REPORT       
+------------------------------------------
+Total Transactions          : 1 (6 units)
+Customer Returns            : 1 (6 units)
+Variance (vs Yesterday)     : 0 (2 units)
+
+Total Orders Received       : 0 (0 units)
+Total Orders Returned       : 0 (0 units)
+
+Total Stock                 : 253 (4 items)
+Total Stock Added           : 6
+Total Stock Deducted        : 6
+Stock Level Histogram:
+A001 | ###                  | 18%
+A002 | #                    | 6%
+A003 | #######              | 35%
+A010 | #######              | 39%
+------------------------------------------
+       SECTION B: FINANCIAL REPORT        
+------------------------------------------
+Gross Sales                 : RM 21.60
+(-) Sales Returns           : RM 21.60
+NET SALES                   : RM 0.00 (0%)
+
+(-) Gross Order Payments    : RM 0.00 (0 payments: 0 units)
+Order Payments Refunded     : RM 0.00 (0 payments: 0 units)
+(-) NET PROCUREMENT         : RM 0.00
+
+DAILY NET PROFITS           : RM 0.00
+Unpaid Supplier Balance     : RM 266.00 (2 payments: 39 units)

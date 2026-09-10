@@ -1,0 +1,7 @@
+----------------------Inventory Overview----------------------
+ ItemCode            ItemName           ItemPrice(RM) Quantity
+--------------------------------------------------------------
+   A001               Waffle                 4.00           46
+   A002             Mi Sedaap                5.00           16
+   A003              100Plus                 2.50           91
+   A010               Royce                 30.00          100

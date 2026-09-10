@@ -1,0 +1,8 @@
+---------------------------------------Supplier Overview---------------------------------------
+SupID       Company         ContactName    ContactNo         Email        TotalOrder  TotalItem
+-----------------------------------------------------------------------------------------------
+ Z001         Riot             Cypher     011-907-1879 befbewo@gmail.com           2        124
+ Z010        Sunny            Pheonix     016-878-5532 pheonix@gmail.com           1         15
+ Z011       Anaconda           Viper      019-248-3570  viper@gmail.com            1         65
+ Z100      Richcheese         Chamber     012-998-1396 chamber@gmail.com           0          0
+ Z101         Abcd             Royve      012-345-6778  vneawi@gmail.com           0          0

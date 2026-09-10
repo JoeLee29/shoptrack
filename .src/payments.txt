@@ -1,0 +1,24 @@
+
+==========PAYMENT DETAILS==========
+Order ID: O001
+Supplier ID: Z011
+Total Items Quantity: 65
+Total Payment Amount (RM): 131.00
+Payment Status: Unpaid (01/01/0001)
+Payment Status: Paid (01/01/0001)
+Payment Status: Refunded (02/01/0001)
+Remarks: Item Damage
+
+==========PAYMENT DETAILS==========
+Order ID: O002
+Supplier ID: Z001
+Total Items Quantity: 24
+Total Payment Amount (RM): 206.00
+Payment Status: Unpaid (11/01/2026)
+
+==========PAYMENT DETAILS==========
+Order ID: O003
+Supplier ID: Z010
+Total Items Quantity: 15
+Total Payment Amount (RM): 60.00
+Payment Status: Unpaid (12/01/2026)

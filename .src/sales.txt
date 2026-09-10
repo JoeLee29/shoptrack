@@ -1,0 +1,97 @@
+
+======================================Receipt======================================
+Transaction ID: TX000101010101
+Date: 01/01/0001
+Time: 01:01 AM
+Customer: ALI
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A002             Mi Sedaap                5.00        2         0           10.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 2
+Total Payment Amount: RM 10.00
+Status: Paid
+
+======================================Receipt======================================
+Transaction ID: TX000101010303
+Date: 01/01/0001
+Time: 03:03 AM
+Customer: CLOVE
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A003              100Plus                 2.50        24        0           60.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 24
+Total Payment Amount: RM 60.00
+Status: Returned (01/01/0001)
+Remarks: Item Damage
+
+======================================Receipt======================================
+Transaction ID: TX000101011640
+Date: 01/01/0001
+Time: 04:40 PM
+Customer: Joe
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A001               Waffle                 4.00        3         15          10.20
+   A002             Mi Sedaap                5.00        2         10           9.00
+   A003              100Plus                 2.50        3         20           6.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 8
+Total Payment Amount: RM 25.20
+Status: Paid
+
+======================================Receipt======================================
+Transaction ID: TX000101021340
+Date: 02/01/0001
+Time: 01:40 PM
+Customer: Jane
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A001               Waffle                 4.00        1         0            4.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 1
+Total Payment Amount: RM 4.00
+Status: Paid
+
+======================================Receipt======================================
+Transaction ID: TX000102011250
+Date: 01/02/0001
+Time: 12:50 AM
+Customer: Alex
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A003              100Plus                 2.50        6         0           15.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 6
+Total Payment Amount: RM 15.00
+Status: Paid
+
+======================================Receipt======================================
+Transaction ID: TX202601112240
+Date: 11/01/2026
+Time: 10:40 PM
+Customer: Addy
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A002             Mi Sedaap                5.00        4         10          18.00
+------------------------------------------------------------------------------------
+Total Quantity Sold: 4
+Total Payment Amount: RM 18.00
+Status: Returned (11/01/2026)
+Remarks: Demo
+
+======================================Receipt======================================
+Transaction ID: TX202601122140
+Date: 12/01/2026
+Time: 09:40 PM
+Customer: Addy
+------------------------------------------------------------------------------------
+ ItemCode            ItemName           UnitPrice(RM) SoldQty Discount(%) Total(RM) 
+   A001               Waffle                 4.00        6         10          21.60
+------------------------------------------------------------------------------------
+Total Quantity Sold: 6
+Total Payment Amount: RM 21.60
+Status: Returned (12/01/2026)
+Remarks: Item Damage
+
